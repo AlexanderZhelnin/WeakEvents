@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Authors>Желнин Александр Юрьевич</Authors>    
+    <RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>    
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>    
+    <PackageId>SATWeekEvents</PackageId>    
+    <Title>SATWeekEvents</Title>
+  </PropertyGroup>
+
+  <ItemGroup>   
+  </ItemGroup>
+
+</Project>
